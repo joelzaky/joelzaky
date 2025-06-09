@@ -17,14 +17,12 @@
 
 With **7+ years of Shopify expertise**, I help brands scale their e-commerce operations through custom development, app creation, and high-performance storefronts. I specialize in building enterprise-grade solutions that drive measurable business growth.
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 Currently working on **Hydrogen Storefronts & Custom Shopify Apps**
-- 🌱 Learning **Advanced React Patterns & Performance Optimization**
-- 👯 Looking to collaborate on **Open Source Shopify Tools**
-- 💬 Ask me about **Shopify Plus, Hydrogen, React, Ruby on Rails**
-- 📫 Reach me: **[Your Email]** | **[LinkedIn Profile]**
-- ⚡ Fun fact: **I've helped generate $50M+ in e-commerce revenue!**
+🔭 **Currently working on:** Hydrogen Storefronts & Custom Shopify Apps  
+🌱 **Learning:** Advanced React Patterns & Performance Optimization  
+👯 **Looking to collaborate on:** Open Source Shopify Tools  
+💬 **Ask me about:** Shopify Plus, Hydrogen, React, Ruby on Rails  
+📫 **Reach me:** **[Your Email]** | **[LinkedIn Profile]**  
+⚡ **Fun fact:** I've helped generate $50M+ in e-commerce revenue!
 
 ---
 
@@ -61,99 +59,16 @@ With **7+ years of Shopify expertise**, I help brands scale their e-commerce ope
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 What Drives Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelzaky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joelzaky&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelzaky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+**Building the future of e-commerce, one line of code at a time.**
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joelzaky&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 💼 Services & Expertise
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏪 Shopify Plus Development
-- Enterprise-grade store architecture
-- Custom checkout experiences
-- B2B functionality & automation
-- Multi-currency global expansion
-
-</td>
-<td width="50%">
-
-### ⚡ Hydrogen Development
-- Headless commerce solutions
-- React component libraries
-- Server-side rendering
-- Progressive Web Apps
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📱 Custom App Development
-- Private & public Shopify apps
-- Webhook integrations
-- Admin dashboard extensions
-- API development
-
-</td>
-<td width="50%">
-
-### 🔧 Optimization & Migration
-- Performance optimization
-- Platform migrations
-- Conversion rate improvements
-- Technical consulting
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelzaky&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website.com)
-
-</div>
-
----
+I believe in creating digital experiences that don't just look good—they perform exceptionally, scale effortlessly, and drive real business results. Every project is an opportunity to push the boundaries of what's possible in e-commerce.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</div>
-
-<div align="center">
-  <h3>⭐ Ready to scale your Shopify business? Let's build something amazing together! ⭐</h3>
 </div>
