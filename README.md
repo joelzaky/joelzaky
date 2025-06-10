@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next+%7C+Node+Expert;Shopify+Frontend+Specialist;Shopify+App+Developer" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joelzaky&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/joelzaky?label=Followers&style=social" alt="GitHub Followers" />
-</div>
-
 ---
 
 ## 🚀 About Me
