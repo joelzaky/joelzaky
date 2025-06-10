@@ -16,7 +16,6 @@ With **7+ years of development expertise**, I build scalable web applications an
 🌱 **Learning:** Advanced React Server Components & Shopify App Architecture  
 👯 **Looking to collaborate on:** Full-Stack React Projects & Shopify Tools  
 💬 **Ask me about:** React, Next.js, Node.js, Python, Shopify Plus, App Development  
-⚡ **Fun fact:** I've built 150+ full-stack applications and Shopify solutions!
 
 ---
 
